@@ -1,0 +1,9 @@
+{
+	"name": "engineeringworx",
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0306e09f-aa89-43ba-a8ff-f4983fa5d0ad",
+		"tenantId": "fb1707bc-3a83-462b-b050-cdcb136db17e"
+	}
+}
